@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+nltk
+openpyxl
+html5lib
+lxml
+beautifulsoup4
+rake_nltk
+cloudmersive_ocr_api_client
+autocorrect
